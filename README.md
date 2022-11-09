@@ -1,8 +1,7 @@
 - 👋 Hola, soy Gracia Rincón Roldán 
 - 👀 Estoy interesada en la Ciencia de Datos y en como aplicar esta disciplina al estudio del cáncer.
-- 🌱 Actualmente estoy matriculada en mi tercer trimestre en la UOC, en el grado de Ciencia de Datos
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Por esta razón en Octubre del año 2020 me matricule en la UOC en el grado de Ciencia de Datos.
+- 💞️ No tengo ningún interés profesional, actualmente estoy incapacitada para todo tipo de trabajo. Estudio porque quiero profundizar a nivel personal en en un un mundo donde la ciencia de datos forma parte de casi infinitas aplicaciones.
 
 <!---
 grinconrr/grinconrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
